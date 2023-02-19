@@ -13,4 +13,6 @@
 - Version: Version installed of the modpack
 - How to reproduce : explain how the bug came
 - Which side : Client or Server Side
+- did you retry restarting or reinstalling the pack ?
+
 
