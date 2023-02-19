@@ -10,7 +10,7 @@
  ### /!\ Known loading Issue, we are currently investigating in order to repair the problem in release VIII
 
 ### If you have an issue please, report it like this : 
-Version: Version installed of the modpack
-How to reproduce : explain how the bug came
-Which side : Client or Server Side
+- Version: Version installed of the modpack
+- How to reproduce : explain how the bug came
+- Which side : Client or Server Side
 
