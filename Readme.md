@@ -7,4 +7,4 @@
 ### What's included ?
 - Dungeon and exploration, more weapons, deco stuff, and create, thermal, immersive and, it's only a resumed list
 
- ### /!\ Known loading Issue with Create craft & Additions we are currently investigating in order to repair the problem in release VIII
+ ### /!\ Known loading Issue, we are currently investigating in order to repair the problem in release VIII
