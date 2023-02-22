@@ -16,3 +16,4 @@
 - did you retry restarting or reinstalling the pack ?
 
 
+### The discord where you can find me and discuss about this or all my projects can be found [here](https://discord.gg/VvGP6tTeca).
